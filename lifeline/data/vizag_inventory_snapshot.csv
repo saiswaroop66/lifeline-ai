@@ -1,0 +1,592 @@
+facility_id,facility_name,city,component,blood_group,units_listed,reported_status,last_updated,source,verification_status,is_synthetic
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),AB-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,29,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,103,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,99,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,3,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,4,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,28,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,3,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,69,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,9,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,34,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,118,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,8,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,4,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,120,Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,4,Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,95,Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,1,Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,50,Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,10,Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,1,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,1,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,19,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,1,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,38,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,7,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,3,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,18,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,49,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,54,Available,2026-10-19 10:01:07,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,45,Available,2026-10-19 10:01:07,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,2,Available,2026-10-19 10:01:07,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 10:01:07,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,73,Available,2026-10-19 10:01:07,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,290,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,70,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,2,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,130,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,1,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,7,Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,9,Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,37,Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,29,Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,81,Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,12,Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,9,Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,22,Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB-,1,Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,2,Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,29,Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,5,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,48,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,1,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,41,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,13,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,47,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,1,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,19,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,3,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,6,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,15,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,1,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,3,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,25,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,1,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,15,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,2,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,1,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,27,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,18,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,5,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,15,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,4,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,7,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,52,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,4,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,3,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,44,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,4,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,19,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,8,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,8,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,9,Available,2026-10-19 08:19:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,8,Available,2026-10-19 08:19:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,11,Available,2026-10-19 08:19:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,25,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,4,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,26,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,1,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,3,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,42,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,5,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,2,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,4,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,1,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,2,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,2,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,33,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,15,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,30,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,17,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,1,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,1,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,16,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,1,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,12,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,41,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,23,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,3,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,4,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,4,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,21,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,1,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,25,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,19,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Packed Red Blood Cells (PRBC),B-,2,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,28,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,34,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,5,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Packed Red Blood Cells (PRBC),O-,2,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Packed Red Blood Cells (PRBC),A-,1,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,15,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),AB+,9,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),O+,84,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),A+,27,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),B+,63,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-19 09:52:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-19 09:45:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-19 09:35:32,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-19 09:10:30,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-19 08:39:47,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-19 06:46:43,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-18 12:26:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Packed Red Blood Cells (PRBC),,,Not Available,2026-10-16 10:56:15,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,6,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,12,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,159,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),A-,7,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,63,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,141,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),AB-,7,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,107,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,13,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,126,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,86,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,8,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Fresh Frozen Plasma (FFP),A-,1,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,5,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,61,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,79,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,25,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,114,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,115,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,55,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,10,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,19,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),A-,1,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,17,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,43,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,4,Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,123,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,21,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,110,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,147,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,36,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,11,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,119,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,35,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,14,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,4,Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A-,1,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,3,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,18,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,44,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,1,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,24,Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,3,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,20,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,2,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A-,1,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,6,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,45,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,55,Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,130,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,41,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,125,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,13,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB-,3,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,75,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,42,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,33,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,86,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,11,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,13,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A-,10,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,77,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,55,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,65,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,29,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,252,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,721,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,380,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,58,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,18,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,3,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,16,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,1,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,18,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,10,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,11,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A-,4,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,47,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,35,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,74,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,1,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,25,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,17,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,4,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,12,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,72,Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,124,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,22,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,49,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,79,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,4,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,32,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,13,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,31,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,34,Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,15,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,25,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,8,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,4,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Fresh Frozen Plasma (FFP),B-,1,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Fresh Frozen Plasma (FFP),O-,2,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),O+,34,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),AB+,30,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),A+,31,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),B+,36,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 09:52:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 09:45:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 09:35:32,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 09:10:30,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 08:39:47,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 08:19:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-19 06:46:43,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-18 12:26:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Fresh Frozen Plasma (FFP),,,Not Available,2026-10-16 10:56:15,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),AB+,1,Available,2026-10-19 08:59:02,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),B-,1,Available,2026-10-19 08:59:02,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),O+,6,Available,2026-10-19 08:59:02,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),A-,2,Available,2026-10-19 08:59:02,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),B+,5,Available,2026-10-19 08:59:02,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),O-,2,Available,2026-10-19 08:59:02,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Random Donor Platelets (RDP),A+,4,Available,2026-10-19 08:28:50,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Random Donor Platelets (RDP),O+,3,Available,2026-10-19 08:28:50,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Random Donor Platelets (RDP),B+,5,Available,2026-10-19 08:28:50,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),B+,1,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),AB+,1,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),A+,2,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),O+,1,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Random Donor Platelets (RDP),B+,4,Available,2026-10-19 07:13:15,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Random Donor Platelets (RDP),O+,2,Available,2026-10-19 07:13:15,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Random Donor Platelets (RDP),A+,3,Available,2026-10-19 07:13:15,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,O-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,B-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,A+,13,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,A-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,AB+,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,B+,19,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,O+,13,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,O+,9,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,A+,2,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,B+,2,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Platelet Concentrate,B+,4,Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Plasma,A+,6,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Plasma,B+,6,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Plasma,O+,21,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Plasma,B-,1,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,AB-,3,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,A-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,B-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Cryoprecipitate,B+,1,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Cryoprecipitate,O+,1,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Cryoprecipitate,O-,1,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Cryoprecipitate,AB+,2,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Cryoprecipitate,O+,8,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Cryoprecipitate,A+,7,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Cryoprecipitate,B+,6,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Cryoprecipitate,AB+,4,Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Cryoprecipitate,O+,30,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Cryoprecipitate,O-,2,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Cryoprecipitate,A+,6,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Cryoprecipitate,B+,14,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Cryoprecipitate,B-,4,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Cryoprecipitate,AB+,2,Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,B+,32,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,O+,30,Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,AB+,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,A+,4,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,AB-,2,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,O+,3,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,A-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,B+,5,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Cryo Poor Plasma,B+,2,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Cryo Poor Plasma,A+,5,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Cryo Poor Plasma,O+,3,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),B+,1,Available,2026-10-18 10:42:40,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),O+,1,Available,2026-10-18 10:42:40,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Random Donor Platelets (RDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Platelet Concentrate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Cryoprecipitate,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Cryo Poor Plasma,,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Platelet (SDP),,,Not Available,2026-10-19,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Single Donor Plasma,,,Not Available,,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,B+,9,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,A-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,B-,1,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,O+,13,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,O-,2,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-001,Ntr Memorial Trust Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,A+,6,Available,2026-10-19 11:42:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Whole Blood,O+,14,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Whole Blood,A+,6,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Whole Blood,B-,1,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Whole Blood,AB+,1,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-002,Lions Club Of Visakhapatnam Blood Centre Trust,Visakhapatnam,Whole Blood,B+,7,Available,2026-10-19 11:23:34,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-003,Rotary Blood Bank Visakhapatnam,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 10:44:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Whole Blood,O+,3,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-004,Medicover Blood Centre,Visakhapatnam,Whole Blood,B+,3,Available,2026-10-19 10:44:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-005,Mother Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 10:12:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-006,Vande Bharat Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 10:01:07,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-007,Bsu Chc Pendurthi,Visakhapatnam,Whole Blood,A+,1,Available,2026-10-19 09:52:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Whole Blood,O+,14,Available,2026-10-19 09:45:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Whole Blood,B+,19,Available,2026-10-19 09:45:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Whole Blood,AB+,2,Available,2026-10-19 09:45:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Whole Blood,A+,5,Available,2026-10-19 09:45:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-008,"Government Victoria Hospital For Women And Children Blood Centre, Visakhapatnam",Visakhapatnam,Whole Blood,O-,1,Available,2026-10-19 09:45:27,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Whole Blood,A+,3,Available,2026-10-19 09:35:32,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Whole Blood,O+,6,Available,2026-10-19 09:35:32,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-009,Kalam Blood Centre,Visakhapatnam,Whole Blood,B+,3,Available,2026-10-19 09:35:32,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,O+,62,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,B-,2,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,B+,43,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,O-,1,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-010,The King George Hospital Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,A+,28,Available,2026-10-19 09:29:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-011,First Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 09:26:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-012,Chatrapathi Shivaji Voluntary Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 09:24:37,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-013,KIMS ICON Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 09:13:33,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-014,Amma Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 09:11:10,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Whole Blood,B+,2,Available,2026-10-19 09:10:30,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Whole Blood,O+,3,Available,2026-10-19 09:10:30,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Whole Blood,AB+,1,Available,2026-10-19 09:10:30,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-015,Bsu Ah Aganampudi,Visakhapatnam,Whole Blood,A+,2,Available,2026-10-19 09:10:30,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-016,Visakha Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 09:05:46,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-017,Visakha Institute Of Medical Science Blood Centre,Visakhapatnam,Whole Blood,O+,1,Available,2026-10-19 08:59:24,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Whole Blood,AB+,3,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Whole Blood,O+,10,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Whole Blood,B+,10,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-018,As Raja Voluntary Blood Centre,Visakhapatnam,Whole Blood,A+,5,Available,2026-10-19 08:59:01,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-019,Seven Hills Hospitals Blood Centre,Visakhapatnam,Whole Blood,A+,1,Available,2026-10-19 08:39:47,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-020,APOLLO BLOOD CENTRE,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 08:28:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-021,Sanjeevani Voluntary Blood Centre Gajuwaka,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 08:19:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-022,Homi Bhabha Cancer Hospital And Research Centre Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 08:13:59,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Whole Blood,A+,3,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Whole Blood,B+,2,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-023,Visakha Steel General Hospital Blood Centre,Visakhapatnam,Whole Blood,O+,1,Available,2026-10-19 08:08:21,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-024,GITAM Institute Of Medical Sciences Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 07:30:13,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-025,Anil Neerukunda Hospital Blood Centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 07:26:58,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Whole Blood,B+,1,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-026,Indian Red Cross Society Blood Bank Vishakhapatnam,Visakhapatnam,Whole Blood,O+,1,Available,2026-10-19 07:25:48,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-027,Pinnacle Hospital Blood centre,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 07:13:14,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Whole Blood,B+,2,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Whole Blood,A+,2,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-028,Gayatri Vidya Parishad Institute Of Health Care And Medical Technology,Visakhapatnam,Whole Blood,O+,2,Available,2026-10-19 07:00:12,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-029,Life Share Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,,,Not Available,2026-10-19 06:46:56,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Whole Blood,B+,1,Available,2026-10-19 06:46:43,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-030,Bsu Chc Gopalapatnam,Visakhapatnam,Whole Blood,A+,2,Available,2026-10-19 06:46:43,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-031,Bsu Chc Bheemunipatnam,Visakhapatnam,Whole Blood,,,Not Available,2026-10-18 12:26:49,User-provided portal snapshot,Needs fresh confirmation,False
+VZG-032,New Life Blood Centre Visakhapatnam,Visakhapatnam,Whole Blood,,,Not Available,2026-10-16 10:56:15,User-provided portal snapshot,Needs fresh confirmation,False

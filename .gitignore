@@ -1,0 +1,9 @@
+.venv/
+**/.env
+**/.streamlit/secrets.toml
+**/__pycache__/
+*.py[cod]
+
+lifeline/data/lifeline.db
+
+lifeline/data/verification_log.csv
